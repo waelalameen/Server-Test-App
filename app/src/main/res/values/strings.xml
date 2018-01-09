@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ServerTest</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="product_image">product_image</string>
+    <string name="facebook_app_id">836180763221921</string>
+    <string name="fb_login_protocol_scheme">fb836180763221921</string>
+    <string name="facebook">null</string>
+    <string name="google">google</string>
+    <string name="twitter">twitter</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">dUDSvBuftgFkfQCcyPtB9qe4A</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">P270a8d0rfxAVTbDNqrynTyTdF92SU57z6Yd62YbbeqkBAjVTu</string>
+    <string name="action_go">Go</string>
+</resources>
